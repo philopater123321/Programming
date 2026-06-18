@@ -27,3 +27,7 @@ Finally, the learning sources page for the previous roadmaps, for each track.
 
 ## Why did I make this project?
 I made this project to help beginners start learning Programming, as I was before.
+
+
+### Important Note:
+I didn't make too much commits because I still wasn't experienced enough to know this method in VS code and Github.
